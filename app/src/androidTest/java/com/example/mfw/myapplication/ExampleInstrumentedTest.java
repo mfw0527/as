@@ -27,5 +27,8 @@ public class ExampleInstrumentedTest {
     public void pra(){
         System.out.println("this is a test");
     }
-    
+
+    public void error(){
+        System.out.println("this is the wrong vertion");
+    }
 }
