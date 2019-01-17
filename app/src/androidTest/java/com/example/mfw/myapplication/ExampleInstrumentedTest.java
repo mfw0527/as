@@ -31,4 +31,8 @@ public class ExampleInstrumentedTest {
     public void error(){
         System.out.println("this is the wrong vertion");
     }
+
+    public void task(){
+        System.out.println("this is the b task");
+    }
 }
