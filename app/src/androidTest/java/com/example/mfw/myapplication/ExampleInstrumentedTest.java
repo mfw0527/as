@@ -28,6 +28,9 @@ public class ExampleInstrumentedTest {
         System.out.println("this is a test");
     }
 
+    public void task(){
+        System.out.println("this is the b task");
+    }
     public void correct(){
         System.out.println("This is the correct version");
     }
