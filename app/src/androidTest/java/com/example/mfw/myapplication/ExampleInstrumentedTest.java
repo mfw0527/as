@@ -28,8 +28,13 @@ public class ExampleInstrumentedTest {
         System.out.println("this is a test");
     }
 
-    public void finalVersion(){
+    public void finalVersion() {
         System.out.println("This is the finally version");
     }
+
+    public void task(){
+        System.out.println("this is the b task");
+    }
+
 
 }
