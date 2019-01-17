@@ -23,4 +23,10 @@ public class ExampleInstrumentedTest {
 
         assertEquals("com.example.mfw.myapplication", appContext.getPackageName());
     }
+
+
+
+    public void pra(){
+        System.out.println("this is a test");
+    }
 }
