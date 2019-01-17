@@ -35,4 +35,8 @@ public class ExampleInstrumentedTest {
     public void correct(){
         System.out.println("this is a right test");
     }
+
+    public void pra(){
+        System.out.println("this is a test");
+    }
 }
