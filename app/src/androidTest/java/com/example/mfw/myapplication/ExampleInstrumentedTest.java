@@ -32,8 +32,8 @@ public class ExampleInstrumentedTest {
         System.out.println("this is a test");
     }
 
-    public void error(){
-        System.out.println("this is an error test");
+    public void correct(){
+        System.out.println("this is a right test");
     }
 
 }
